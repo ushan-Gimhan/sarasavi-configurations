@@ -1,10 +1,10 @@
 ﻿# SARASAVI Configurations
 
-`
-Student Name:   S.K.M Ushan Gimhan
-Student ID:     241711098
-GCP Project ID: project-af908f5b-1cbf-40dc-9a7
-`
+**Author**: S.K.M Ushan Gimhan  
+**Student ID**: 241711098  
+**Slack Handle**: Ushan Gimhan  
+**Module**: ITS 2130 — Enterprise Cloud Architecture  
+**GCP Project ID**: `project-af908f5b-1cbf-40dc-9a7`
 
 Centralized external configuration repository for the SARASAVI Bookshop Management System.
 Served by Spring Cloud Config Server.
